@@ -1,5 +1,6 @@
 name: CI
 on:
+  release:
   pull_request:
   push:
     branches:
